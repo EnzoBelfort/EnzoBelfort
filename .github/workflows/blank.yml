@@ -15,10 +15,9 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: EnzoBelfort # Substitua por seu nome de usuário
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user_name: EnzoBelfort
+          gif_out_path: ./dist/github-snake.gif
+          svg_out_path: ./dist/github-snake.svg
 
       - uses: EndBug/add-and-commit@v7
         with:
