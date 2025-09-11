@@ -78,3 +78,8 @@
   <a href="https://www.linkedin.com/in/enzobelfort/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzobelfort/" alt="LinkedIn"/></a>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/EnzoBelfort/EnzoBelfort/blob/main/dist/github-snake.svg" alt="Jogo da Cobrinha no GitHub" />
+</p>
