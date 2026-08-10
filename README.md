@@ -80,7 +80,7 @@ Atualmente, estou expandindo meus conhecimentos em:
 
 ### `PROGRAMMING LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash,assembly&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,java,js,ts,bash,assembly&theme=dark" />
 
 ### `HARDWARE & LOW LEVEL`
 
@@ -88,11 +88,11 @@ Atualmente, estou expandindo meus conhecimentos em:
 
 ### `WEB & SOFTWARE`
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,nodejs&theme=dark" />
 
 ### `DATABASES & TOOLS`
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,gitlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,jest,linux,git,github,vscode&theme=dark" />
 
 </div>
 
