@@ -235,12 +235,6 @@ Embedded Logic
 
 ## `GITHUB ANALYTICS`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoBelfort&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBelfort&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=94a3b8&bg_color=00000000&langs_count=8"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=EnzoBelfort&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
