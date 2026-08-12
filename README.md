@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=ENZO%20BELFORT%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20ARCHITECT&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=ENZO%20BELFORT%20%E2%80%A2%20COMPUTER%20ENGINEER&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
 <br>
 
@@ -32,30 +32,9 @@
 
 ---
 
-<div align="center">
-
-## `◈ SYSTEM PROFILE`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    ENZO BELFORT // CORE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  STATUS        : ONLINE                                     ║
-║  ROLE          : SOFTWARE DEVELOPER                         ║
-║  SPECIALTY     : SYSTEMS • ALGORITHMS • EMBEDDED            ║
-║  ENVIRONMENT   : LINUX / WINDOWS / FPGA                     ║
-║  CURRENT MODE  : LEARNING + BUILDING                        ║
-║  DIRECTIVE     : TURN IDEAS INTO SYSTEMS                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ## `SOBRE MIM`
 
-> **"I don't just write code. I design systems."**
-
-Sou estudante de **Computação**, apaixonado por tecnologia, programação e construção de sistemas.
+Sou estudante de **Engenharia de Computação**, apaixonado por programação, hardware e microeletrônica.
 
 Minha jornada passa por diferentes níveis da computação — desde **algoritmos e estruturas de dados** até **arquitetura de computadores, Assembly, FPGA, Verilog e desenvolvimento de software**.
 
@@ -64,13 +43,12 @@ Gosto especialmente de entender **como as coisas funcionam por baixo dos panos**
 Atualmente, estou expandindo meus conhecimentos em:
 
 * 🧠 Inteligência Artificial & Machine Learning
-* ⚙️ Algoritmos e Estruturas de Dados
-* 🖥️ Arquitetura de Computadores
 * 🔌 Sistemas Embarcados
+* ⚡ Internet das Coisa (IoT)
 * 🧩 Engenharia de Software
 * 🐍 Desenvolvimento com Python
-* ⚡ Hardware Description Languages
-* 🧬 Algoritmos Bioinspirados
+* ⚙️ Algoritmos e Estruturas de Dados
+* 🖥️ Arquitetura de Computadores
 
 ---
 
@@ -95,39 +73,6 @@ Atualmente, estou expandindo meus conhecimentos em:
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,jest,linux,git,github,vscode&theme=dark" />
 
 </div>
-
----
-
-## `FERRAMENTAS`
-
-```text
-┌────────────────────── DEVELOPMENT ENVIRONMENT ──────────────────────┐
-
-  IDE
-  ├── Visual Studio Code
-  ├── IntelliJ IDEA
-  └── Quartus Prime
-
-  VERSION CONTROL
-  ├── Git
-  └── GitHub
-
-  HARDWARE / SIMULATION
-  ├── ModelSim
-  ├── MARS
-  └── FPGA Development Boards
-
-  DATA
-  ├── MySQL
-  ├── PostgreSQL
-  └── SQLAlchemy
-
-  SYSTEM
-  ├── Windows
-  └── Linux
-
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
